@@ -36,4 +36,7 @@ En cuanto a la imagen usada para la muestra de instrucciones, esta fue creada po
 Esta imagen también se encuentra en el repositorio y fue añadida al programa usando `loadImage()`
 
 ## Funcionamiento en vivo
+
+En el gif a continuación mostramos el funcionamiento del juego, aunque cabe destacar que *la velocidad en el gif es inferior a la velocidad en ejecución*.
+
 ![](funcionamiento.gif)

@@ -37,6 +37,6 @@ Esta imagen también se encuentra en el repositorio y fue añadida al programa u
 
 ## Funcionamiento en vivo
 
-En el gif a continuación mostramos el funcionamiento del juego, aunque cabe destacar que *la velocidad en el gif es inferior a la velocidad en ejecución*.
+En el gif a continuación mostramos el funcionamiento del juego, aunque cabe destacar que **la velocidad en el gif es inferior a la velocidad en ejecución**.
 
 ![](funcionamiento.gif)

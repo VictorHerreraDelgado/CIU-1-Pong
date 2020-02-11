@@ -57,12 +57,15 @@ Finalmente, pause() controla la variable del mismo nombre y para o reanuda la pa
 Por último, cabe mencionar el control para los inputs en el teclado del usuario, cada uno con su respectivo desencadenamiento, destacando el guardado del movimiento de las palas en vectores para consultarlos en las funciones de actualización y rebote.
 
 
-## Funcionamiento en vivo
+# Funcionamiento en vivo
 En el gif a continuación mostramos el funcionamiento del juego, aunque cabe destacar que **la velocidad en el gif es inferior a la velocidad en ejecución**.
 
 ![](funcionamiento.gif)
 
-### Elementos externos
+# Ejecución
+Para poder ejecutarlo en processing descargue la carpeta entera que se encuentra en el repositorio.
+
+# Elementos externos
 Se ha hecho uso de distintos sonidos para incluirlos cuando una pelota rebota,cuando se gana un punto o cuando se gana una partida. Estos estan incluidos en el repositorio y fueron usados mediante la librería sound de processing.
 NFF-bounce-02.wav y NFF-lose.wav han sido obtenidos por el sitio web www.noiseforfun.com, que ofrece distintos sonidos para videojuegos de manera gratuita.
 alexPi.mp3 y alexPo.mp3 han sido grabados y editados usando la herramienta de edición de audio online https://twistedwave.com/online.
